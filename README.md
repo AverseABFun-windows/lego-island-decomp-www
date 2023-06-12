@@ -1,11 +1,11 @@
 # BotW decomp website
 
-This is the source code of the website for the [Breath of the Wild decompilation project](https://botw.link).
+This is the source code of the website for the LEGO Island decompilation project.
 
 ## Setup
 
 ```shell
-git clone git@github.com:open-ead/botw-decomp-www
+git clone git@github.com:ItsRemix/lego-island-decomp-www
 cd botw-decomp-www
 npm install
 ```
